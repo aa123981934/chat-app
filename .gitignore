@@ -1,0 +1,13 @@
+# Vue
+chat-frontend/node_modules/
+chat-frontend/dist/
+
+# Spring Boot
+demo2/target/
+demo2/*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+**/.DS_Store
