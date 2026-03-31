@@ -12,7 +12,7 @@
 ## 技術架構
  後端框架  Spring Boot 3 
  即時通訊  WebSocket + STOMP 
- 前端框架  Vue 3 + TypeScript 
+ 前端框架  Vue 3 + TypeScript
  狀態管理  Vue Composables 
  建構工具  Vite  
  套件管理  Maven / npm 
